@@ -13,3 +13,7 @@ ____
 :tophat: High school: Urgench branch of Tashkent University of Information Technology (Computer Engineering) <br/>
 
 ### and other other :smile:
+
+### Portfolio :fire:
+<img src="https://img.freepik.com/free-vector/flat-arabic-pattern-background_79603-1826.jpg?w=740&t=st=1682153813~exp=1682154413~hmac=7bda6b3a2ca8ba06b4ce2c277ef54814478fa49173faae92eefa29023bad68c3"/>
+<img src="https://img.freepik.com/free-vector/flat-arabic-pattern-background_79603-1826.jpg?w=740&t=st=1682153813~exp=1682154413~hmac=7bda6b3a2ca8ba06b4ce2c277ef54814478fa49173faae92eefa29023bad68c3"/>
