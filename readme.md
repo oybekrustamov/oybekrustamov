@@ -1,5 +1,5 @@
 ## Hi, I'm Oybek
-**I'm .NET developer and System Administrator of Urgench branch of TUIT**
+**I'm .NET developer and System Administrator**
 ____
 ### My skills :fire:
 :white_check_mark: C# (MAUI, BLAZOR, XAMARIN, ASP.NET, WinForms) <br/>
